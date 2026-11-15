@@ -1,0 +1,11 @@
+{
+ "itemGroup.airebellion":"Neon Rebellion",
+ "block.airebellion.circuit_ore":"Circuit Ore",
+ "block.airebellion.neon_block":"Neon Block",
+ "item.airebellion.circuit_core":"Circuit Core",
+ "item.airebellion.arcane_staff":"Arcane Staff",
+ "item.airebellion.nano_blade":"Nano Blade",
+ "item.airebellion.dimension_key":"Dimension Key",
+ "item.airebellion.robot_boss_spawn_egg":"Rebel Colossus Spawn Egg",
+ "entity.airebellion.robot_boss":"Rebel Colossus"
+}

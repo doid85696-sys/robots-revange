@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["  C"," S ","S  "],"key":{"C":{"item":"airebellion:circuit_core"},"S":{"item":"minecraft:blaze_rod"}},"result":{"item":"airebellion:arcane_staff"}}

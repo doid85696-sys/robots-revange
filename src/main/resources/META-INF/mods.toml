@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="airebellion"
+version="1.0.0"
+displayName="Neon Rebellion"
+description='''Magic, a neon dimension and rebel robot bosses.'''
+[[dependencies.airebellion]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.airebellion]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

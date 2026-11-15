@@ -1,0 +1,11 @@
+{
+ "itemGroup.airebellion":"Неоновое восстание",
+ "block.airebellion.circuit_ore":"Руда схем",
+ "block.airebellion.neon_block":"Неоновый блок",
+ "item.airebellion.circuit_core":"Ядро схемы",
+ "item.airebellion.arcane_staff":"Тайный посох",
+ "item.airebellion.nano_blade":"Нано-клинок",
+ "item.airebellion.dimension_key":"Ключ измерений",
+ "item.airebellion.robot_boss_spawn_egg":"Яйцо призыва Мятежного Колосса",
+ "entity.airebellion.robot_boss":"Мятежный Колосс"
+}
